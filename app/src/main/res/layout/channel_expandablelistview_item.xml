@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <test.baway.com.erjiliebiao.CustomGridView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/channel_item_child_gridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+    android:gravity="center"
+        android:background="#FAFAFA"
+
+        android:numColumns="3"
+
+    android:paddingBottom="8dip"
+    android:paddingLeft="6dip"
+    android:paddingRight="6dip"
+    android:paddingTop="8dip"
+
+    >
+
+
+    </test.baway.com.erjiliebiao.CustomGridView>
+
